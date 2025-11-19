@@ -75,20 +75,19 @@ Implementado para análisis continuo de vulnerabilidades, gestión de parches y 
 ---
 
 ##📊 Paneles y Reportes
-### 1. NAGIOS
 
--Tiempo de actividad por servidor
--Servicios intermitentes
--Carga del sistema
--Ancho de banda consumido
--Notificaciones por falla o recuperación
+### 1. **NAGIOS Core**
 
-## 2. GFI LanGuard
--Estado de parches
--Vulnerabilidades críticas detectadas
--Cumplimiento de seguridad
+- Tiempo de actividad por servidor
+- Servicios intermitentes
+- Carga del sistema
+- Ancho de banda consumido
+- Notificaciones por falla o recuperación
 
-Equipos sin parches
-
-Inventario de hardware y software
+### 2. **GFI LanGuard**
+- Estado de parches
+- Vulnerabilidades críticas detectadas
+- Cumplimiento de seguridad
+- Equipos sin parches
+- Inventario de hardware y software
 }
