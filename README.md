@@ -14,10 +14,9 @@ Utilizado para monitorear la disponibilidad, rendimiento y estado de servicios e
 ### 🔹 **GFI LanGuard**
 Implementado para análisis continuo de vulnerabilidades, gestión de parches y cumplimiento de estándares de seguridad en estaciones de trabajo, servidores y dispositivos de red.
 
-**Servidores monitoreados:** 40+  
-**Dispositivos de red:** 25+  
-**Estaciones de trabajo auditadas:** 120+  
-**Alertas procesadas mensualmente:** 2,000+  
+**Servidores monitoreados:** 5+  
+**Dispositivos de red:** 100+  
+**Alertas procesadas mensualmente:** 500+  
 
 ---
 
