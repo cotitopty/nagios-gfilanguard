@@ -74,12 +74,21 @@ Implementado para análisis continuo de vulnerabilidades, gestión de parches y 
 
 ---
 
-## 🚀 Procesos de Configuración
+##📊 Paneles y Reportes
+### 1. NAGIOS
 
-### 🔹 Configuración de Hosts en NAGIOS
-```bash
-define host {
-    use             linux-server
-    host_name       servidor-web01
-    address         192.168.10.25
+-Tiempo de actividad por servidor
+-Servicios intermitentes
+-Carga del sistema
+-Ancho de banda consumido
+-Notificaciones por falla o recuperación
+
+## 2. GFI LanGuard
+-Estado de parches
+-Vulnerabilidades críticas detectadas
+-Cumplimiento de seguridad
+
+Equipos sin parches
+
+Inventario de hardware y software
 }
